@@ -114,7 +114,7 @@
         ["bool", "r-midi-notegate","A. Note",0],
         ["bool", "r-midi-ctrlgate","A. Ctrl",0],
 
-        ["bool", "r-instant-param", "Instant Params",0]
+        ["bool", "r-instant-param", "Instant Params",1]
 
     ],
     "pages" : [ 
